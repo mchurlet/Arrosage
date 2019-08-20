@@ -2,7 +2,7 @@
 
 Arrosage calibré asservi à la mesure d'humidité du sol
 
-Création Maurice Churlet - Usage libre - 18/08/2019 - Retour d'expérience souhaité ici.
+Création Maurice Churlet - Usage libre - 18/08/2019 - Retour d'expérience souhaité.
   Arduino, 1 interrupteur, 1 potentiomètre 10 k, trois led avec resistances 220 homs
   Deux switch pour la raz du compteur d'arrosage et le reset
   Deux sondes (humidité et réserve vide)
